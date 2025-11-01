@@ -1,56 +1,67 @@
->>> Hi, I'm **Jaideep Chouhan**
+# Hi, I'm Jaideep Chouhan 👋
 
->>> Robotics Engineer | Embedded Systems | Mechatronics | R&D Generalist
+### Robotics & Embedded Systems Engineer | Mechatronics | R&D Generalist
 
-I design and build robots from the ground up — from mechanical structure and actuator control to embedded logic, communication layers, and autonomous behaviors. I focus on practical, reliable, and resource-efficient robotics solutions that work in the real world.
+I build robots end-to-end — from **mechanical design** and **actuator control** to **embedded logic**, **communication systems**, and **autonomous behavior**.  
+My focus is on **practical robotics**: systems that are reliable, efficient, and ready to work in real environments.
 
-My work spans:
-- **Legged robots (Hexapods, Quadrupeds)**
-- **Tracked surveillance & exploration rovers**
-- **Robotic arms with playback and precise motion control**
-- **AI + IoT-based smart monitoring and metering systems**
-- **Wireless networking using nRF24 mesh, ESP32, Wi-Fi, GSM**
-
-I lead my engineering work under the a cross functional robotics team "AIR Revolutionaries".
-
----
-
->>> 🧠 Technical Focus Areas
-
-- **Embedded Systems**: Arduino, ESP32, PCA9685, NRF24, GSM modules  
-- **Robotics Control**: Servo kinematics, gait planning, sensor integration  
-- **Programming**: C, C++, Python  
-- **Computer Vision & IoT**: ESP32-CAM, OpenCV basics, wireless telemetry  
-- **3D Design & Prototyping**: Blender, CAD modeling (SolidWorks soon)  
-- **System Architecture**: Hardware-software co-design for robotics products  
+I enjoy working at the intersection of:
+- **Mechanical Design**
+- **Embedded Firmware**
+- **Motion Control**
+- **Wireless Communication**
+- **Intelligent System Behavior**
 
 ---
 
->>> 🚀 Selected Projects (to be uploaded gradually)
+### What I Work On
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **SPARK Hexapod** | Multi-legged robot with wireless & camera integration | Arduino, PCA9685, Bluetooth/PS2, ESP32-CAM |
-| **Quadruped AIR0214** | Four-legged robot with improved gait control | Arduino + Servo Control |
-| **Robotic Arm Playback System** | Motion capture + servo replay functionality | Arduino, PCA9685 |
-| **Tracked Surveillance Rover** | Rover for inspection & terrain navigation | Arduino/ESP32, Motor Driver, Camera |
-| **AI Electricity Meter (Leakage Detection)** | Secure smart meter with mesh communication | ATmega328, nRF24 Mesh, GSM |
-| **ANGAD Smart Grid Automation System** | Line monitoring, feedback & control automation | Sensors + Embedded + Wireless Network |
-
->>> These repositories will be uploaded and documented step-by-step.
+- **Legged robots** (Hexapods & Quadrupeds)
+- **Tracked exploration & surveillance rovers**
+- **Robotic arms** with precise motion capture & replay
+- **Smart embedded systems** for sensing & automation
+- **Wireless & Mesh Networks** (nRF24, ESP32, GSM, Wi-Fi)
+- **Electromechanical design** in Blender & CAD tools
 
 ---
 
->>> 📌 Current Goal:
-Organizing and publishing past robotics projects with clean documentation, schematics, and code to build a transparent engineering portfolio.
+### 🛠 Technical Skillset
+
+| Domain | Tools / Skills |
+|-------|----------------|
+| **Embedded Systems** | Arduino, ESP32, nRF24, GSM, PCA9685, Sensors |
+| **Control & Robotics** | Kinematics, Gait Planning, Servo/Actuator Control |
+| **Programming** | C, C++, Python |
+| **Computer Vision & IoT** | ESP32-CAM, basic OpenCV, wireless telemetry |
+| **3D Design & Modeling** | Blender, SolidWorks (learning) |
+| **Product Thinking** | Prototyping → Testing → Refinement |
 
 ---
 
->>> 🌍 Vision:
-To contribute to the next generation of **affordable and high-performance robotics** in research, defense, industrial automation, and planetary exploration.
+### Key Projects (being documented & uploaded)
+
+| Project | Focus | Highlights |
+|--------|-------|-------------|
+| **SPARK Hexapod Robot** | Legged locomotion & wireless control | PCA9685, PS2/BT, ESP32-CAM |
+| **Quadruped AIR0214** | Smooth gait behaviour | Servo motion sequencing |
+| **Robotic Arm Playback System** | Learn & repeat motions | Servo angle recording & replay |
+| **Tracked Rover** | Terrain mobility & surveillance | Motor driver + camera module |
+| **Smart Electricity Meter** | Fault/Leakage detection & alerts | ATmega328 + nRF Mesh + GSM |
+| **ESP32-Camera Robot** | Remote tele-operated vision robot | Live video + wireless control |
+
+> These repositories will be uploaded with **step-by-step documentation**, wiring diagrams, and demonstrations.
 
 ---
 
->>> 📫 Reach Out
->>> **LinkedIn**:https://linkedin.com/in/jd0214
->>> **Email**:jaideepchouhan123@gmail.com
+### Core Goal
+My core mission is to make robotics **accessible, affordable, and practical** in real-world applications. I believe that impactful robotics does not always require expensive resources—what it truly needs is **smart design, modular engineering**, and a clear understanding of the **problem–solution–market fit**.
+---
+
+### Philosophy
+Robotics should be **accessible, reliable, and purposeful**.  
+We should engineer robotics systems that remain efficient, reliable, and upgrade-friendly even under resource constraints. Our work should focus on converting prototypes into scalable products that make advanced robotics more accessible and practical in real environments.
+---
+
+### Connect With Me
+**LinkedIn:** https://linkedin.com/in/jd0214  
+**Email:** jaideepchouhan123@gmail.com
