@@ -55,11 +55,13 @@ I enjoy working at the intersection of:
 
 ### Core Goal
 My core mission is to make robotics **accessible, affordable, and practical** in real-world applications. I believe that impactful robotics does not always require expensive resources—what it truly needs is **smart design, modular engineering**, and a clear understanding of the **problem–solution–market fit**.
+
 ---
 
 ### Philosophy
 Robotics should be **accessible, reliable, and purposeful**.  
 We should engineer robotics systems that remain efficient, reliable, and upgrade-friendly even under resource constraints. Our work should focus on converting prototypes into scalable products that make advanced robotics more accessible and practical in real environments.
+
 ---
 
 ### Connect With Me
