@@ -41,12 +41,11 @@ I believe impactful robotics does not require expensive resources — it require
 | **Locomotion & Control** | Forward/Inverse Kinematics, Gait Design (Tripod · Ripple · Wave), EKF, SLAM |
 | **Computer Vision** | OpenCV, YOLOv8, Kinect v1, PointCloud2, Haar Cascade, MOG2 |
 | **Deep Learning** | PyTorch, PointNet++ MSG, Focal Loss, SWA, Self-Training |
-| **Backend & APIs** | Flask, FastAPI, SQLAlchemy, WebSocket (Socket.IO), REST, RBAC |
-| **Frontend** | React 18, TypeScript, Tailwind CSS, Vite |
+| **Backend & APIs** | Flask, FastAPI |
 | **DevOps** | Docker, docker-compose, Nginx, GitHub Actions, Alembic |
 | **Geospatial / GIS** | GDAL, rasterio, WhiteboxTools, LiDAR (laspy), GeoTIFF |
-| **3D Design** | Blender 4.3, Fritzing, KiCad |
-| **Languages** | C · C++ · Python · JavaScript / TypeScript |
+| **3D Design** | Blender 4.3, Fritzing |
+| **Languages** | C · C++ · Python · |
 
 ---
 
