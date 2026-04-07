@@ -157,8 +157,6 @@ Async AI pipeline: Silero VAD → Sarvam AI STT → GPT-4o-mini / Groq LLM → S
 | 3rd Runner-up | IEEE JECRC Robotics Competition | 2024 |
 | 4th Place | StartupExpo · E-Cell, ACEIT | 2024 |
 | Patent Filed | SPY Robot with Radar System (in progress) | 2024 |
-| Campus Ambassador | Tryst · IIT Delhi | 2024 |
-| Internship | Agnirva Space Internship Program | 2024 |
 
 ---
 
